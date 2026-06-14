@@ -1,0 +1,55 @@
+{
+  "nome": "Federico Mosca",
+  "ruolo": "Sviluppatore",
+  "foto": "/assets/profile.jpg",
+  "links": [
+    { "label": "LINKEDIN", "url": "https://www.linkedin.com/in/mosca-federico/" },
+    { "label": "GITHUB", "url": "https://github.com/federicomosca" }
+  ],
+  "profilo": [
+    "Ho esperienza di manutenzione e sviluppo di CRM Dynamics 365 (e 2015/2016), sia on-prem che su Power Platform (Power Apps, Canvas, Automate).",
+    "Prima di ogni attività cerco, dove possibile, di acquisire una visione allargata del problema: *measure twice, cut once.*"
+  ],
+  "strumenti": {
+    "Piattaforme": ["Dynamics CRM 2015/365", "Power Platform", "Docker"],
+    "Framework": [".NET Framework", "ASP.NET"],
+    "Linguaggi": ["C#", "Power Fx", "Javascript", "SQL", "Bash", "PowerShell"],
+    "Tecnologie Web": ["REST", "SOAP", "HTML", "Bootstrap"],
+    "Database & Server": ["SQL", "Supabase", "IIS"],
+    "Utilities": ["RDCM (Sysinternals)", "XrmToolBox"],
+    "Version Control": ["Git", "GitHub CLI", "Azure DevOps"],
+    "IDE": ["Visual Studio", "VS Code"],
+    "Sistemi Operativi": ["Windows", "Linux"],
+    "Project management": ["Scrum", "Clockify", "Obsidian"]
+  },
+  "competenze": {
+    "CRM Dynamics": [
+      "Manutenzione e sviluppo on-prem e cloud",
+      "Sviluppo plugin .NET Framework 4.6.2",
+      "Gestione utenti, ruoli di sicurezza",
+      "Configurazione interfaccia amministratore",
+      "XrmToolBox"
+    ],
+    "Sviluppo .NET e Web": [
+      "Realizzazione di Web API REST con ASP.NET",
+      "Sviluppo di console app in .NET",
+      "Sviluppo di web resource Javascript & HTML"
+    ],
+    "Distribuzione": [
+      "Deploy manuale su server on-prem",
+      "Conoscenza teorica di CI/CD, pipelines"
+    ],
+    "Infrastruttura": [
+      "Buona conoscenza di Sistemi e Reti",
+      "Buona conoscenza di Linux e Bash scripting"
+    ],
+    "Versionamento & CI/CD": [
+      "Git, GitHub, Azure DevOps, branching strategies"
+    ],
+    "Project Management": [
+      "Applicazione di principi Agile e Scrum",
+      "Azure DevOps per task e tracking",
+      "Pianificazione con Obsidian e Clockify"
+    ]
+  }
+}

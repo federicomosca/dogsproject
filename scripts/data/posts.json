@@ -2,7 +2,11 @@
   {
     "id": "zettelkasten-obsidian",
     "titolo": "Zettelkasten in Obsidian",
-    "anteprima": "Un modo intelligente di prendere appunti per studiare o produrre.",
-    "file": "/scripts/data/posts/zettelkasten-obsidian"
+    "anteprima": "Un modo intelligente di prendere appunti per studiare o produrre."
+  },
+  {
+    "id": "test1",
+    "titolo": "Test 1",
+    "anteprima": "Questo è un test"
   }
 ]

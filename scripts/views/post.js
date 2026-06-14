@@ -6,7 +6,7 @@ export function post(id){
     .then(text => {
         const html = `
             <br>
-            <a href="#home">Indietro</a>
+            <a class="back-button" href="#home">Indietro</a>
             ${marked(text)}
         `;
         document.getElementById('main-container').innerHTML = html;

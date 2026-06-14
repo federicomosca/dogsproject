@@ -6,14 +6,10 @@ export function home() {
     .then (posts => {
         const cards = posts.map(post => 
             `
-            <ul>
-                <a href='/'>
-                    <a href="#post/${post.id}">
-                        <h2>${post.titolo}</h2>
-                    </a>
-                    <p>${post.anteprima}</p>
-                </a>
-            </ul>
+            <a href="#post/${post.id}" class="post-card">
+                <h2>${post.titolo}</h2>
+                <p>${post.anteprima}</p>
+            </a>
             `
         ).join('');
         
