@@ -1,4 +1,9 @@
-export {testo};
+export { testo };
+export { preview };
+
+const preview = `Odio è una parola.
+Ho guardato di là dell'odio che avevo e ho visto la gola occupata da parole tese e strette, aperture nella carne dove l'altro rimestava nel gioco di riflettersi, i solchi del pianto dove coltivo le anestesie necessarie; queste che dico e altre sono, in effetti, manifestazioni dell'amore.`;
+
 const testo = `Odio è una parola.
 Ho guardato di là dell'odio che avevo e ho visto la gola occupata da parole tese e strette, aperture nella carne dove l'altro rimestava nel gioco di riflettersi, i solchi del pianto dove coltivo le anestesie necessarie; queste che dico e altre sono, in effetti, manifestazioni dell'amore.
 Così vedo che odio è solo la parola di chi vuole dirne un'altra; vuole e non sa farlo perché nel sonno dimentica molte delle lettere e l'alfabeto che resta è povero e male organizzato; il sonno che dorme è la distrazione, è l'inazione, è la comodità o quel che le somiglia.
